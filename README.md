@@ -1,2 +1,4 @@
 # juego-batalla-naval
 proyecto de facultad segundo parcial
+Actualmente me encuentro trabajando en un proyecto académico como parte del segundo examen de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional. El enfoque principal del proyecto es el desarrollo de un videojuego utilizando la biblioteca Pygame, lo que me permite aplicar conocimientos prácticos de programación en un entorno creativo e interactivo. A través de esta experiencia, estoy profundizando en el diseño de interfaces, la gestión de eventos, la integración de gráficos y el desarrollo de mecánicas simples. Este desafío representa una oportunidad significativa para fortalecer mis habilidades técnicas y explorar nuevas formas de expresión digital a través del código.
+Sean libres de dar un vistazo a todo, encantado en debatir ideas!
